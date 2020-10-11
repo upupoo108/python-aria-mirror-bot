@@ -3,7 +3,7 @@ This is a telegram bot writen in python for mirroring files on the internet to o
 
 # Inspiration 
 This project is heavily inspired from @out386 's telegram bot which is written in JS.
-
+教程：https://blog.jmsooo.com/index.php/edge/85.html
 # Features supported:
 - Mirroring direct download links to google drive
 - Download progress
